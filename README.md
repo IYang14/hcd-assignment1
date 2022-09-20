@@ -3,7 +3,7 @@ The goal of this project is to look at the national parks across the country (ca
 
 National Parks Data from: [*nps.gov*](https://www.nps.gov/subjects/developer/api-documentation.htm#/)
 
-Link(API Key needed): https://developer.nps.gov/api/v1/parks?stateCode=&limit=467&api_key=#Enter your key here
+Link(API Key needed): https://developer.nps.gov/api/v1/parks?stateCode=&limit=467&api_key=#Enter-your-key-here
 
 data.world link: https://data.world/isabely06/i310d-assignment-1
 
